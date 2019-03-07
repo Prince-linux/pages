@@ -1,3 +1,5 @@
 ve
 db.sqlite3
 Pipfile.lock
+Pipfile
+.gitignore
